@@ -9,7 +9,7 @@
 ># Raphael Kariuki
 
 # Installation instructions:
-*Open the live link to view the project, Here is the live link :"
+*Open the live link to view the project, Here is the live link :"https://raphkm.github.io/Wk1/"
 
 # Technologies used:
 * HTML,
