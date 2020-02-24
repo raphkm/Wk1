@@ -1,0 +1,54 @@
+.contact { color: royalblue;
+}
+.line-content{
+    padding: 5px;
+}
+td {
+    display:table-row
+    vertical-align:baseline;
+}
+.row{
+ border-collapse: seperate;
+ font-variant: normal;
+ font-size: medium;
+ font-weight: initial;
+ color:#ffffff;}
+
+ .grad1 {
+    height: 60px;
+    width: 50px;} 
+.top-nav{
+    text-align: center;
+}
+#about{
+    color: #ffffff;
+    font-size: large;
+}
+h3{
+    font-size: 64px;
+}
+.My-info{
+    text-align: center;
+
+}
+.col-md-3{
+    flex-wrap: wrap;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1529753253655-470be9a42781?ixlib=rb-1.2.1&w=1000&q=80);
+}
+.color{
+    color: #ffffff;
+}
+.top-nav{
+    float: right
+}
+h2{
+    color: #ffffff;
+}
+.jumbotron{
+    background-color:gray;
+}
+.hi{
+    color: #ffffff;
+}
