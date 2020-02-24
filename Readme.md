@@ -17,7 +17,7 @@
 * Bootstrap
 
 # Contact information.
-> For more information contact my email- rkariuki415@gmail.com
+> For more information contact my email- rkariuki415@gmail.com.
 
 # License and Copyright information.
 > 
